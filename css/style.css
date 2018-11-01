@@ -217,7 +217,7 @@ body {
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
 }
 .experience__block {
     width: 50%;
